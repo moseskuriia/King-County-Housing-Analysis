@@ -1,5 +1,5 @@
 # King County Housing Analysis
-![graph1](./images/housingproject.png)
+![graph1](./images/housingpicture.png)
 
 
 **Authors**: Moses Kuria
