@@ -57,12 +57,12 @@ As a whole, approximately 85% of the variations in dependent variable, price, ar
 
 ## Conclusion
 
-King County Real Estate Services should focus on building houses with :
+King County Real Estate Services should focus on: 
 
-More square feet above the ground and more square feet in general
-1-3 bathrooms for more economy
-Higher grade
-Renovate existing houses to achieve higher grade
+1. Building houses with more square feet above the ground and more square feet in general.
+2. Building houses with 1-3 bathrooms for more economy.
+3. Building houses with a higher grade.
+4. Renovating existing houses to achieve higher grade.
 
 ## For More Information
 
