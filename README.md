@@ -6,7 +6,7 @@
 
 ## Overview
 
-King County Real estate services wants to contract a construction company to build some houses in the area of Seattle.Before it can do that, it wants to know what kind of houses to build to maximise profit by knowing the market value of the built house. As house prices are decided by a variety of factors, King County Real estate services wants to know exactly what those factors are to maximise profit. I am charged with exploring exactly what kind of houses have the best market prices and what it is that makes them so valuable. To do this, I will analyse data from the King County Housing datasets to draw actionable insights that they can use.
+King County Real estate services wants to contract a construction company to build some houses in King County and the area of Seattle.Before it can do that, it wants to know what kind of houses to build to maximise profit by knowing the market value of the built house. As house prices are decided by a variety of factors, King County Real estate services wants to know exactly what those factors are to maximise profit. I am charged with exploring exactly what kind of houses have the best market prices and what it is that makes them so valuable. To do this, I will analyse data from the King County Housing datasets to draw actionable insights that they can use.
 
 ## Business Problem
 
